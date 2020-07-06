@@ -1,0 +1,41 @@
+
+body{
+    background-image: url('https://waverley.nsw.edu.au/wp-content/uploads/2020/03/COVID-19-picture.jpg');
+}
+
+h1{
+    text-align:center;
+}
+
+.data{
+    border-radius:5px;
+    font-size:25px;
+    height:500px;
+    width:400px;
+    background-color: #F0FFFF;
+    font-family:sans-serif;
+    margin: 0 auto;
+    
+}
+
+#death{
+    padding-left:10px;
+    padding-bottom:10px;
+}
+
+#hospitalized{
+    padding-left:10px;
+    padding-top:10px;
+    padding-bottom:10px;
+}
+
+#recovered{
+    padding-left:10px;
+    padding-top:10px;
+    padding-bottom:10px;
+}
+
+#updated{
+    padding-left:10px;
+    padding-top:10px;
+}
